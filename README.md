@@ -4,8 +4,9 @@
 
 ## Задание 1
 
-Выполненное первое задание находится в папке [`task1`](.lad/task1).
+Выполненное первое задание находится в папке [`task1`](./lad/task1)
 
 ## Задание 2
 
-Выполненное второе задание можно просмотреть по следующей [ссылке]([https://drive.google.com/file/d/16e92DWxjfST4jIVGYJEqefZITYglj6Xo/view?usp=sharing)].
+Выполненное второе задание можно просмотреть по следующей [ссылке](https://drive.google.com/file/d/16e92DWxjfST4jIVGYJEqefZITYglj6Xo/view?usp=sharing).
+
